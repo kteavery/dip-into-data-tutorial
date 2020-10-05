@@ -1,1 +1,3 @@
-# dip-into-data-tutorial
+# Dip into Data Tutorial
+
+## Installation & Setup
