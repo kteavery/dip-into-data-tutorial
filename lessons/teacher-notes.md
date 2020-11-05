@@ -3,6 +3,7 @@
 ## Introduction 
 
 
+For student activities outside of class, we will use the [2017 World Happiness Report dataset](https://www.kaggle.com/unsdsn/world-happiness). 
 
 
 ## Classification
